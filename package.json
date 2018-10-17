@@ -25,7 +25,8 @@
   "homepage": "https://github.com/nlapshin/inquirer-prompt-exam#readme",
   "dependencies": {
     "chalk": "^2.4.1",
-    "inquirer": "^6.2.0"
+    "inquirer": "^6.2.0",
+    "rxjs": "^6.3.3"
   },
   "devDependencies": {}
 }

@@ -17,6 +17,9 @@
     "command",
     "prompt"
   ],
+  "engines": {
+    "node": "6.2.0"
+  },
   "author": "Nikolay Lapshin <nlapshin1989@gmail.com>",
   "license": "MIT",
   "homepage": "https://bitbucket.org/nlapshin1989/inquirer-prompt-exam#readme",

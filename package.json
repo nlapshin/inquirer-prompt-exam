@@ -1,6 +1,6 @@
 {
   "name": "inquirer-prompt-exam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Inquirer.js promt for the test exam",
   "main": "src/index.js",
   "scripts": {
